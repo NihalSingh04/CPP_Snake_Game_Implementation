@@ -1,4 +1,4 @@
-# C-_Snake_Game-
+# CPP_Snake_Game_Implementation
 This is a Snake Game in C++.
 
 # Snake Game in C++
